@@ -10,11 +10,15 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on personal open‑source projects
+- 🔭 I’m currently working on **CUPS_Print_App** and other open‑source projects
 - 🌱 I’m continuously learning new tech stacks
-- 💡 Interested in backend, tool development & open source
+- 💡 Interested in backend, desktop tool development & open source
 - 📫 Reach me via GitHub issues
 - ⚡ Fun fact: Code, coffee and late‑night debugging
+
+### 🚀 Featured Projects
+- [**CUPS_Print_App**](https://github.com/moxgg/CUPS_Print_App)
+  > A printing application based on CUPS, for printer management and print‑job handling.
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -32,12 +36,8 @@
 <img src="https://img.shields.io/badge/javascript‑%23323330.svg?style=for‑the‑badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/git‑%23F05033.svg?style=for‑the‑badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux‑FCC624?style=for‑the‑badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/CUPS‑Printing‑0066cc?style=for‑the‑badge"/>
 </p>
-
-### ✨ My Repositories
-> 可以手动替换成你自己重点项目链接
-- [Project‑A](https://github.com/moxgg) — awesome personal project
-- [Project‑B](https://github.com/moxgg) — another cool tool
 
 ### 🔗 Connect
 <p>
@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Keep+coding!;Open+Source+Forever!&font=Fira%20Code&center=true&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Keep+coding!;Open+Source+Forever!;CUPS+Print+App🔥&font=Fira%20Code&center=true&width=420&height=45">
 </p>
